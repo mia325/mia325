@@ -1,4 +1,4 @@
-## Hello, I'm Mia
+## Hello, I'm MIA!!!!!!
 
 I'm studying Statistics at Imperial. I enjoy looking at data related to the environment and medicine. I will be using this account for coursework.
 
