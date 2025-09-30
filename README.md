@@ -1,5 +1,14 @@
-## Hi there 👋
 
+## Hello, I'm Mia
+
+I'm studying Statistics at Imperial. I enjoy looking at data related to the environment and medicine. I will be using this account for coursework.
+
+My hobbies are
+- Climbing
+- Reading
+- Gaming
+and I am good at none of them
+This is a link back to the [github main page](https://github.com/)
 <!--
 **mia325/mia325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
